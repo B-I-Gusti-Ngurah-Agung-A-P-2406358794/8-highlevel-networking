@@ -1,0 +1,16 @@
+/Users/gung/Documents/GitHub/8-highlevel-networking/grpc-tutorial/target/debug/deps/prost_build-a5310d799a7882d9.d: /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/gung/Documents/GitHub/8-highlevel-networking/grpc-tutorial/target/debug/deps/libprost_build-a5310d799a7882d9.rlib: /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/gung/Documents/GitHub/8-highlevel-networking/grpc-tutorial/target/debug/deps/libprost_build-a5310d799a7882d9.rmeta: /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs /Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs
+
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/lib.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ast.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/code_generator.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/extern_paths.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/ident.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/message_graph.rs:
+/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/src/path.rs:
+
+# env-dep:PROTOC=/opt/homebrew/bin/protoc
+# env-dep:PROTOC_INCLUDE=/Users/gung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-build-0.10.4/third-party/include

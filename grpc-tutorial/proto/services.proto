@@ -29,12 +29,12 @@ message TransactionRequest {
 
 message TransactionResponse {
   string transaction_id = 1;
-  double amount = 2;
-  string description = 3;
+  string status = 2;
+  double amount = 3;
   string timestamp = 4;
 }
 
 message ChatMessage {
-  string user = 1;
+  string user_id = 1;
   string message = 2;
 }
